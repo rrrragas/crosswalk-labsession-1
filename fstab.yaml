@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/rrrragas/crosswalk-labsession-1/main"
+    url: "https://author-p96704-e1371798.adobeaemcloud.com/bin/franklin.delivery/rrrragas/crosswalk-labsession-1/main"
     type: "markup"
     suffix: ".html"
